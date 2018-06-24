@@ -1,0 +1,10 @@
+{
+  "is_package": false,
+  "maintainer_name": "The Flutter Community Team",
+  "maintainer_username": "fluttercommunity",
+  "package_description":
+    "The main repository containing info about the Flutter Community",
+  "package_name": "community",
+  "pub_url": "N/A",
+  "pub_package_name": "N/A"
+}
