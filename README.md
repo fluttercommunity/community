@@ -53,7 +53,7 @@ Your `COMMUNITY_INFO.json` file should look something like this (example taken f
 ```
 
 ## Getting in contact
-If you've [prepared your packages](###Preperation), you can either:
+If you've [prepared your packages](#preperation), you can either:
 - **RECOMMENDED**: [Open an issue on the `community` repository.](https://github.com/fluttercommunity/community/issues/new)
 - Contact us in the Flutter Study Group.
 - Contact us through the Google Group https://groups.google.com/forum/#!forum/flutter-community or email the group flutter-community@googlegroups.com.
