@@ -1,7 +1,7 @@
 ![Flutter Community](https://raw.githubusercontent.com/fluttercommunity/community/master/welcome_banner.png)
 
 # Flutter Community
-<p style="text-align: center; font-weight: bold;"> A central place for all community made Flutter packages.</p>
+**A central place for all community made Flutter packages.**
 
 ---
 
