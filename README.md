@@ -53,8 +53,7 @@ pub_package_name: after_layout
 ## Getting in contact
 If you've [prepared your packages](#preperation), you can either:
 - **RECOMMENDED**: [Open an issue on the `community` repository.](https://github.com/fluttercommunity/community/issues/new)
-- Contact us in the Flutter Study Group.
-- Contact us through the Google Group https://groups.google.com/forum/#!forum/flutter-community or email the group flutter-community@googlegroups.com.
+- Contact us in the Study Group.
 
 ### Note to packages owners
 This is only a branding change. The idea is to promote the integrity of packages. Not all packaged will be accepted.
