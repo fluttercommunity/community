@@ -30,13 +30,7 @@ In order for the Flutter Community organization to keep track of all the submitt
 **Note, without this file your package will not be listed in the [packages table](#Packages).**
 
 ### COMMUNITY_INFO.yaml
-A `COMMUNITY_INFO.yaml` contains the following fields:
-- `is_package: bool` - **REQUIRED**: This indicates if your repository is a package or not. This should almost always be `true`.
-- `package_name: String` - *Optional*: The name of your package. If this field is not present, the name of the repository of your package will be used.
-- `maintainer_name: String` - **STRONGLY RECOMMENDED**: The name of the current maintainer of the project (usually you).
-- `maintainer_username: String` - **STRONGLY RECOMMENDED**: The maintainer's GitHub username.
-- `package_description: String` - **STRONGLY RECOMMENDED**: A description of what your package does.
-- `pub_package_name: String` - *Recommended*: The name of your package as listed on [Dart pub](https://pub.dartlang.org/). <br> Fill this in if the name of your package on [Dart pub](https://pub.dartlang.org/) is different to the name of your repository or the `package_name` in your `COMMUNITY_INFO.yaml`. <br> **When in doubt, leave empty.**
+This is no longer a requirement and alternative solutions are being worked on. TBA.
 
 #### Example
 
