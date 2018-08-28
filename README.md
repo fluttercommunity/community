@@ -1,4 +1,4 @@
-![Flutter Community](https://raw.githubusercontent.com/fluttercommunity/community/master/welcome_banner.png)
+![Flutter Community](https://raw.githubusercontent.com/fluttercommunity/community/master/banner.png)
 
 # Flutter Community
 **A central place for all community made Flutter packages.**
