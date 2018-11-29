@@ -1,4 +1,4 @@
-![Flutter Community](https://raw.githubusercontent.com/fluttercommunity/community/master/banner.png)
+![Flutter Community](https://raw.githubusercontent.com/fluttercommunity/community/resources/banner.png)
 
 # Flutter Community
 **A central place for all community made Flutter packages.**
@@ -17,7 +17,6 @@ https://medium.com/flutter-community
 # Packages
 These are the packages featured on the Flutter Community.
 
-# Packages
 | Name | Release | Description | Maintainer |
 | --- | --- | --- | --- |
 | [**sealed_unions**](https://github.com/fluttercommunity/dart_sealed_unions) | [![Pub](https://img.shields.io/pub/v/sealed_unions.svg)](https://pub.dartlang.org/packages/sealed_unions) | Sealed Unions for Dart | [Android Alliance](https://github.com/droidallianc)
@@ -65,7 +64,7 @@ name: after_layout
 description: Execute code after the first layout of your widget has been performed, i.e. after the first frame has been displayed.
 version: 1.0.7
 authors:
- - Flutter Community <flutter-community@googlegroups.com>
+ - Flutter Community <community@flutter.zone>
  - Simon Lightfoot <simon@devangels.london>
 homepage: https://github.com/fluttercommunity/flutter_after_layout
 maintainer: Simon Lightfoot (@slightfoot)
