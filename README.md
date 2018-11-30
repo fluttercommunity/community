@@ -72,7 +72,7 @@ maintainer: Simon Lightfoot (@slightfoot)
 
 ## Getting in contact
 If you've [prepared your packages](#-Preperation), you can either:
-- **RECOMMENDED**: [Open an issue on the `community` repository.](https://github.com/fluttercommunity/community/issues/new)
+- **RECOMMENDED**: [Open an issue in the `community` repository.](https://github.com/fluttercommunity/community/issues/new)
 - Contact us in the Study Group.
 
 ### Note to packages owners
