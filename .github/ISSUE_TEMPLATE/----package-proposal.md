@@ -1,6 +1,6 @@
 ---
 name: "\U0001F4E6➕ Package Proposal"
-about: Transfer a new package you maintain to the Flutter Community.
+about: Transfer a new package you maintain to Flutter Community.
 title: 'Package Proposal: [PACKAGE NAME]'
 labels: package proposal
 assignees: jeroen-meijer

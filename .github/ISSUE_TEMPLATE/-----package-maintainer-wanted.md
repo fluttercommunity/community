@@ -8,8 +8,8 @@ assignees: jeroen-meijer
 ---
 
 # Package Maintainer Wanted: [PACKAGE NAME]
-**Dependency name (as used in *pubspec.yaml*):** [NAME]
-**Current pub.dev Link:** [pub.dev URL]
+
+**Flutter Community repository link:** [URL]
 **Description:** [DESCRIPTION OF PACKAGE]
 **Current maintainer:** [MAINTAINER NAME, EMAIL ADDRESS AND GITHUB USERNAME]
 **New maintainer:** [NOT FOUND/MAINTAINER NAME, EMAIL ADDRESS AND GITHUB USERNAME]
