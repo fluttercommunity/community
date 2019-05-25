@@ -57,11 +57,7 @@ maintainer: Simon Lightfoot (@slightfoot)
 ```
 
 ## Getting in contact
-If you've [prepared your packages](#-Preperation), you can either:
-- **RECOMMENDED**: [Open an issue in the `community` repository.](https://github.com/fluttercommunity/community/issues/new)
-- Contact us in the Study Group.
+If you've [prepared your packages](#-Preperation), please [open an issue using this template](https://github.com/fluttercommunity/community/issues/new?assignees=jeroen-meijer&labels=package+proposal&template=----package-proposal.md&title=Package+Proposal%3A+%5BPACKAGE+NAME%5D).
 
 ### Note to packages owners
 Flutter Community aims to bring the best community-made packages forward. Because of this, not all proposed packages will be accepted.
-
-Do you have a package you want submitted that delivers the same or similar functionality as an existing package? Please [contact us](##-Getting-in-contact) or contact the maintainer of the package on Flutter Community.
