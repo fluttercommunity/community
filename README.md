@@ -5,7 +5,7 @@
 
 ---
 
-The Flutter Community is a GitHub organisation used to manage community made Flutter packages.
+The Flutter Community is a GitHub organization used to manage community made Flutter packages.
 
 Our goal is to ensure packages made by the Flutter community are kept alive and maintained in one place.
 
@@ -27,7 +27,7 @@ These are the packages featured on the Flutter Community.
 | [**after_layout**](https://github.com/fluttercommunity/flutter_after_layout) | [![Pub](https://img.shields.io/pub/v/after_layout.svg)](https://pub.dartlang.org/packages/after_layout) | Execute code after the first layout of your widget has been performed, i.e. after the first frame has been displayed. | [Simon Lightfoot](https://github.com/slightfoot)
 | [**contacts_service**](https://github.com/fluttercommunity/flutter_contacts) | [![Pub](https://img.shields.io/pub/v/contacts_service.svg)](https://pub.dartlang.org/packages/contacts_service) | A Flutter plugin to retrieve and manage contacts on Android and iOS devices. | [Lukas Dickie](https://github.com/lukasgit)
 | [**flutter_downloader**](https://github.com/fluttercommunity/flutter_downloader) | [![Pub](https://img.shields.io/pub/v/flutter_downloader.svg)](https://pub.dartlang.org/packages/flutter_downloader) | A plugin for creating and managing download tasks. Supports iOS and Android. | [Hung Duy Ha](https://github.com/hnvn)
-| [**flutter_google_places**](https://github.com/fluttercommunity/flutter_google_places) | [![Pub](https://img.shields.io/pub/v/flutter_google_places.svg)](https://pub.dartlang.org/packages/flutter_google_places) | Google places autocomplete widgets for flutter. No wrapper, use https://pub.dartlang.org/packages/google_maps_webservice | NO MAINTAINER PROVIDED
+| [**flutter_google_places**](https://github.com/fluttercommunity/flutter_google_places) | [![Pub](https://img.shields.io/pub/v/flutter_google_places.svg)](https://pub.dartlang.org/packages/flutter_google_places) | Google places autocomplete widgets for flutter. No wrapper, use https://pub.dartlang.org/packages/google_maps_webservice | [Kev Morelli](https://github.com/KevMorelli)
 | [**infinite_listview**](https://github.com/fluttercommunity/flutter_infinite_listview) | [![Pub](https://img.shields.io/pub/v/infinite_listview.svg)](https://pub.dartlang.org/packages/infinite_listview) | ListView with items that can be scrolled infinitely in both directions. | [Simon Lightfoot](https://github.com/slightfoot)
 | [**flutter_launcher_icons**](https://github.com/fluttercommunity/flutter_launcher_icons) | [![Pub](https://img.shields.io/pub/v/flutter_launcher_icons.svg)](https://pub.dartlang.org/packages/flutter_launcher_icons) | A package which simplifies the task of updating your Flutter app's launcher icon. Fully flexible, allowing you to choose what platform you wish to update the launcher icon for and if you want, the option to keep your old launcher icon in case you want to revert back sometime in the future. | [Mark O'Sullivan](https://github.com/MarkOSullivan94)
 | [**flutter_sms**](https://github.com/fluttercommunity/flutter_sms) | [![Pub](https://img.shields.io/pub/v/flutter_sms.svg)](https://pub.dartlang.org/packages/flutter_sms) | A Flutter plugin to Send SMS and MMS on iOS and Android. If iMessage is enabled it will send as iMessage on iOS. This plugin must be tested on a real device on iOS. | [Rody Davis](https://github.com/AppleEducate)
@@ -44,48 +44,10 @@ These are the packages featured on the Flutter Community.
 
 
 # Submitting your packages
-If you want your packages to be included in the Flutter Community organization, make sure you have read and completed the following steps.
-
-<!--
-## Guidelines
- - Android and iOS compatible
- - Package is published and approved on Dart pub.
- - ...
--->
-
-## Preperation
-In order for the Flutter Community organization to keep track of all the submitted packages and their maintainer, all repositories are required to contain a `pubspec.yaml` file **in the root of the repository**. This file contains information about the package, pub page and maintainer.
-
-**Note, without this file your package will not be listed in the [packages table](#Packages).**
-
-### How to setup your pubspec file.
-Please make sure your project's `pubspec.yaml` file contains a field named `maintainer` that contains the maintainer's name and GitHub username (usually your name and username) in the following pattern:
-```yaml
-...
-maintainer: YOUR-NAME (@YOURGITHUBUSERNAME)
-...
-```
-
-#### Example
-
-Your `pubspec.yaml` file should look something like this (example taken from [after_layout](https://github.com/fluttercommunity/flutter_after_layout)):
-```yaml
-name: after_layout
-description: Execute code after the first layout of your widget has been performed, i.e. after the first frame has been displayed.
-version: 1.0.7
-authors:
- - Flutter Community <community@flutter.zone>
- - Simon Lightfoot <simon@devangels.london>
-homepage: https://github.com/fluttercommunity/flutter_after_layout
-maintainer: Simon Lightfoot (@slightfoot)
-```
+If you'd like to submit your package to the Flutter Community GitHub organization, please see the [Flutter Community Transfer Guide](https://github.com/fluttercommunity/transfer-guide).
 
 ## Getting in contact
-If you've [prepared your packages](#-Preperation), you can either:
-- **RECOMMENDED**: [Open an issue in the `community` repository.](https://github.com/fluttercommunity/community/issues/new)
-- Contact us in the Study Group.
+For any questions regarding the Flutter Community, please [open an issue on the /community repository](https://github.com/fluttercommunity/community/issues/new/choose).
 
 ### Note to packages owners
 Flutter Community aims to bring the best community-made packages forward. Because of this, not all proposed packages will be accepted.
-
-Do you have a package you want submitted that delivers the same or similar functionality as an existing package? Please [contact us](##-Getting-in-contact) or contact the maintainer of the package on Flutter Community.
