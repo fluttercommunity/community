@@ -5,7 +5,7 @@
 
 ---
 
-The Flutter Community is a GitHub organisation used to manage community made Flutter packages.
+The Flutter Community is a GitHub organization used to manage community made Flutter packages.
 
 Our goal is to ensure packages made by the Flutter community are kept alive and maintained in one place.
 
@@ -20,44 +20,10 @@ These are the packages featured on the Flutter Community.
 <PACKAGETABLE>
 
 # Submitting your packages
-If you want your packages to be included in the Flutter Community organization, make sure you have read and completed the following steps.
-
-<!--
-## Guidelines
- - Android and iOS compatible
- - Package is published and approved on Dart pub.
- - ...
--->
-
-## Preperation
-In order for the Flutter Community organization to keep track of all the submitted packages and their maintainer, all repositories are required to contain a `pubspec.yaml` file **in the root of the repository**. This file contains information about the package, pub page and maintainer.
-
-**Note, without this file your package will not be listed in the [packages table](#Packages).**
-
-### How to setup your pubspec file.
-Please make sure your project's `pubspec.yaml` file contains a field named `maintainer` that contains the maintainer's name and GitHub username (usually your name and username) in the following pattern:
-```yaml
-...
-maintainer: YOUR-NAME (@YOURGITHUBUSERNAME)
-...
-```
-
-#### Example
-
-Your `pubspec.yaml` file should look something like this (example taken from [after_layout](https://github.com/fluttercommunity/flutter_after_layout)):
-```yaml
-name: after_layout
-description: Execute code after the first layout of your widget has been performed, i.e. after the first frame has been displayed.
-version: 1.0.7
-authors:
- - Flutter Community <community@flutter.zone>
- - Simon Lightfoot <simon@devangels.london>
-homepage: https://github.com/fluttercommunity/flutter_after_layout
-maintainer: Simon Lightfoot (@slightfoot)
-```
+If you'd like to submit your package to the Flutter Community GitHub organization, please see the [Flutter Community Transfer Guide](https://github.com/fluttercommunity/transfer-guide).
 
 ## Getting in contact
-If you've [prepared your packages](#-Preperation), please [open an issue using this template](https://github.com/fluttercommunity/community/issues/new?assignees=jeroen-meijer&labels=package+proposal&template=----package-proposal.md&title=Package+Proposal%3A+%5BPACKAGE+NAME%5D).
+For any questions regarding the Flutter Community, please [open an issue on the /community repository](https://github.com/fluttercommunity/community/issues/new/choose).
 
 ### Note to packages owners
 Flutter Community aims to bring the best community-made packages forward. Because of this, not all proposed packages will be accepted.
