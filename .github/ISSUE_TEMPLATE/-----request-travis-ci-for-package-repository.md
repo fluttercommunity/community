@@ -1,6 +1,7 @@
 ---
 name: "\U0001F4E6\U0001F477 Request Travis CI for Package Repository"
-about: Request Travis CI to be enabled for your package's repository on Flutter Community.
+about: Request Travis CI to be enabled for your package's repository on the Flutter
+  Community.
 title: 'Requesting Travis CI: [PACKAGE NAME]'
 labels: travis ci request
 assignees: jeroen-meijer

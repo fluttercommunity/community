@@ -2,7 +2,7 @@
 name: "\U0001F4E6\U0001F64B Package Maintainer Wanted"
 about: You are looking for a new maintainer for your existing package.
 title: 'Package Maintainer Wanted: [PACKAGE NAME]'
-labels: package adoption wanted
+labels: ''
 assignees: jeroen-meijer
 
 ---
