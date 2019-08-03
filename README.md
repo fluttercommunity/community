@@ -1,11 +1,11 @@
 ![Flutter Community](https://raw.githubusercontent.com/fluttercommunity/community/resources/banner.png)
 
 # Flutter Community
-**A central place for all community made Flutter packages.**
+**A central place for community made Flutter content.**
 
 ---
 
-The Flutter Community is a GitHub organization used to manage community made Flutter packages.
+The Flutter Community is an organization aimed at providing a central place for community made Flutter packages and content to live.
 
 Our goal is to ensure packages made by the Flutter community are kept alive and maintained in one place.
 
