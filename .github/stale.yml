@@ -1,17 +1,13 @@
-# Number of days of inactivity before an issue becomes stale
-daysUntilStale: 21
-# Number of days of inactivity before a stale issue is closed
-daysUntilClose: 7
-# Only issues or pull requests with all of these labels are check if stale. Defaults to `[]` (disabled)
-onlyLabels:
-  - "waiting for reply"
-# Issues with these labels will never be considered stale
-exemptLabels:
-  - pinned
-  - security
-# Label to use when marking an issue as stale
-staleLabel: "no response"
-# Comment to post when closing a stale issue. Set to `false` to disable
-closeComment: >
-  This issue has been automatically closed because it has not had any
-  recent activity and was marked with "no response". Feel free to reply to get it reopened.
+# TEMPORARILY DEACTIVATED DUE TO DIFFICULTIES CONFIGURING PROPERLY (2019/10/17)
+
+# daysUntilStale: 21
+# daysUntilClose: 7
+# onlyLabels:
+#   - "waiting for reply"
+# exemptLabels:
+#   - pinned
+#   - security
+# staleLabel: "no response"
+# closeComment: >
+#   This issue has been automatically closed because it has not had any
+#   recent activity and was marked with "no response". Feel free to reply to get it reopened.
