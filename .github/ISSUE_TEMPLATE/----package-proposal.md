@@ -10,7 +10,8 @@ assignees: jeroen-meijer
 # Package Proposal: [PACKAGE NAME]
 
 **Dependency name (as used in *pubspec.yaml*):** [NAME]
-**Current pub.dev Link:** [pub.dev URL]
+**Current pub.dev link:** [pub.dev URL]
+**Current Git repository link:** [pub.dev URL]
 **Description:** [DESCRIPTION OF PACKAGE]
 **Current maintainer:** [MAINTAINER NAME, EMAIL ADDRESS AND GITHUB USERNAME]
 **Needs new maintainer after transfer:** [NO/YES]
