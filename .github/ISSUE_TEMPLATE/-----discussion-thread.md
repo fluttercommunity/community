@@ -1,6 +1,7 @@
 ---
 name: "\U0001F5E3️❕ Discussion Thread"
-about: Start a discussion about a topic regarding the Flutter Community.
+about: 'Start a discussion about a topic regarding the Flutter Community. (NOTE: Do
+  not use for bug reports.)'
 title: 'Discussion: [TOPIC NAME]'
 labels: discussion
 assignees: jeroen-meijer
