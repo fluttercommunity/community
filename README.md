@@ -20,6 +20,7 @@ These are the packages featured on the Flutter Community.
 | Name | Release | Description | Maintainer |
 | --- | --- | --- | --- |
 | [**app_review**](https://github.com/fluttercommunity/app_review) | [![Pub](https://img.shields.io/pub/v/app_review.svg)](https://pub.dartlang.org/packages/app_review) | Request and Write Reviews and Open Store Listing for Android and iOS in Flutter. | [Rody Davis](https://github.com/rodydavis)
+| [**backdrop**](https://github.com/fluttercommunity/backdrop) | [![Pub](https://img.shields.io/pub/v/backdrop.svg)](https://pub.dartlang.org/packages/backdrop) | Backdrop implementaion in dart. (https://material.io/design/components/backdrop.html) | [Harsh Bhikadia](https://github.com/daadu)
 | [**breakpoint**](https://github.com/fluttercommunity/breakpoint) | [![Pub](https://img.shields.io/pub/v/breakpoint.svg)](https://pub.dartlang.org/packages/breakpoint) | A Flutter plugin to calculate the material design breakpoints. | [Rody Davis](https://github.com/rodydavis)
 | [**sealed_unions**](https://github.com/fluttercommunity/dart_sealed_unions) | [![Pub](https://img.shields.io/pub/v/sealed_unions.svg)](https://pub.dartlang.org/packages/sealed_unions) | Sealed Unions for Dart | [George Medve](https://github.com/nodinosaur)
 | [**firestore_helpers**](https://github.com/fluttercommunity/firestore_helpers) | [![Pub](https://img.shields.io/pub/v/firestore_helpers.svg)](https://pub.dartlang.org/packages/firestore_helpers) | Firestore helper function to create dynamic and location based queries | [Thomas Burkhart](https://github.com/escamoteur)
@@ -42,7 +43,6 @@ These are the packages featured on the Flutter Community.
 | [**native_widgets**](https://github.com/fluttercommunity/native_widgets) | [![Pub](https://img.shields.io/pub/v/native_widgets.svg)](https://pub.dartlang.org/packages/native_widgets) | A new Flutter package for using Android and iOS natively on each platform. | [Rody Davis](https://github.com/rodydavis)
 | [**page_turn**](https://github.com/fluttercommunity/page_turn) | [![Pub](https://img.shields.io/pub/v/page_turn.svg)](https://pub.dartlang.org/packages/page_turn) | Page Turn Widget - Add a page turn effect to widgets in your app. | [Rody Davis](https://github.com/rodydavis)
 | [**persist_theme**](https://github.com/fluttercommunity/persist_theme) | [![Pub](https://img.shields.io/pub/v/persist_theme.svg)](https://pub.dartlang.org/packages/persist_theme) | A flutter plugin for persisting the theme data. Support for Dark Modes. | [Rody Davis](https://github.com/rodydavis)
-| [**redux_undo**](https://github.com/fluttercommunity/redux_undo) | [![Pub](https://img.shields.io/pub/v/redux_undo.svg)](https://pub.dartlang.org/packages/redux_undo) | Make your redux store undo- and redoable. Inspired by the JS redux_undo package. | [Michel Engelen](https://github.com/michelengelen)
 
 
 # Submitting your packages
